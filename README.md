@@ -51,6 +51,12 @@ https://git-scm.com/install/windows *(Не только Windows, есть уст
 
 > Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)
 
-**4.** В командную строку впишите `git add .`., Это выберет все файлы в папке.
+**4.** В командную строку впишите `git add .`. Это выберет все файлы в папке.
 
-**5.**
+**5.** В командную строку впишите `git commit`. Это сохранит состояние выбранных ранее файлов.
+
+**6.** В командную строку впишите `git push DVGUPS-BOD11ISS-2026 <Название ветки>`. Это отправит все сохранённые файлы на GitHub.
+
+> Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)
+
+### **🥳 ПОЗДРАВЛЯЮ! Ваша домашка отправлена!**
