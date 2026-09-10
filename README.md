@@ -45,6 +45,8 @@
 
   ↳  В командную строку пишем `git branch <Название ветки>` и Нажимаем Enter.
 
+> Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)
+
 **3.2** **ВОТ ЭТО ДЕЙСТВИЕ ДЕЛАЕМ КАЖДЫЙ РАЗ!!! ВКЛЮЧАЯ ПЕРВЫЙ**
 
   ↳  В командную строку пишем `git checkout <Название ветки>` и Нажимаем Enter.
