@@ -45,13 +45,13 @@
 
   ↳  В командную строку пишем `git branch <Название ветки>` *(Пример: `git branch IvanovII`)* и Нажимаем Enter.
 
-> Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)
+> *Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)*
 
 **3.2** **ВОТ ЭТО ДЕЙСТВИЕ ДЕЛАЕМ КАЖДЫЙ РАЗ!!! ВКЛЮЧАЯ ПЕРВЫЙ**
 
   ↳  В командную строку пишем `git checkout <Название ветки>` *(Пример: `git checkout IvanovII`)* и Нажимаем Enter.
 
-> Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)
+> *Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)*
 
 **4.** В командную строку пишем `git add .` и Нажимаем Enter. Это выберет все файлы в папке.
 
@@ -59,6 +59,6 @@
 
 **6.** В командную строку пишем `git push DVGUPS-BOD11ISS-2026 <Название ветки>` *(Пример: `git push DVGUPS-BOD11ISS-2026 IvanovII`)* и Нажимаем Enter. Это отправит все сохранённые файлы на GitHub.
 
-> Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)
+> *Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)*
 
 ## **🥳 ПОЗДРАВЛЯЮ! Ваша домашка отправлена!**
