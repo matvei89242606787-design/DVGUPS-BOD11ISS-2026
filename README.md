@@ -49,7 +49,7 @@ https://git-scm.com/install/windows *(Не только Windows, есть уст
 
 В командную строку пишем `git checkout <Название ветки>` и Нажимаем Enter.
 
-> Своё название ветки смотрим в таблице -> 
+> Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)
 
 **4.** В командную строку впишите `git add .`., Это выберет все файлы в папке.
 
