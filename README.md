@@ -6,8 +6,8 @@
 ### 👨‍💻 Преподаватель:
 Кулалев Евгений Сергеевич
 ### ❓ Помощь:
-Если нужна помощь со cкачиванием или отправкой домашки пишите @Tefetid в:
-[TELEGRAM](https://t.me/Tefetid) | [MAX](https://max.ru/u/f9LHodD0cOIR-NqoglsvKf8Uz6YIdEoiDU4lmUAaNdsSXU1h24Y6n-LP_Og)
+Если нужна помощь со cкачиванием или отправкой домашки пишите @Tefetid в
+[TELEGRAM](https://t.me/Tefetid) или [MAX](https://max.ru/u/f9LHodD0cOIR-NqoglsvKf8Uz6YIdEoiDU4lmUAaNdsSXU1h24Y6n-LP_Og)
 
 # 📗 Инструкция по скачиванию и отправке домашки
 ### 1. 🤔 Как скачать файлы для домшних заданий?
