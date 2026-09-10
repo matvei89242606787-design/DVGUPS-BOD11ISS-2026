@@ -43,13 +43,13 @@
 
 **3.1.** **ЭТО ДЕЙСТВИЕ ДЕЛАЕМ ОДИН РАЗ, КОГДА ОТПРАВЛЯЕМ ПЕРВУЮ ДОМАШКУ!!!**
 
-  ↳  В командную строку пишем `git branch <Название ветки>` и Нажимаем Enter.
+  ↳  В командную строку пишем `git branch <Название ветки>` *(Пример: `git branch IvanovII`)* и Нажимаем Enter.
 
 > Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)
 
 **3.2** **ВОТ ЭТО ДЕЙСТВИЕ ДЕЛАЕМ КАЖДЫЙ РАЗ!!! ВКЛЮЧАЯ ПЕРВЫЙ**
 
-  ↳  В командную строку пишем `git checkout <Название ветки>` и Нажимаем Enter.
+  ↳  В командную строку пишем `git checkout <Название ветки>` *(Пример: `git checkout IvanovII`)* и Нажимаем Enter.
 
 > Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)
 
@@ -57,7 +57,7 @@
 
 **5.** В командную строку пишем `git commit` и Нажимаем Enter. Это сохранит состояние выбранных ранее файлов.
 
-**6.** В командную строку пишем `git push DVGUPS-BOD11ISS-2026 <Название ветки>` и Нажимаем Enter. Это отправит все сохранённые файлы на GitHub.
+**6.** В командную строку пишем `git push DVGUPS-BOD11ISS-2026 <Название ветки>` *(Пример: `git push DVGUPS-BOD11ISS-2026 IvanovII`)* и Нажимаем Enter. Это отправит все сохранённые файлы на GitHub.
 
 > Своё название ветки смотрим в таблице -> [StudentsList.md](https://github.com/matvei89242606787-design/DVGUPS-BOD11ISS-2026/blob/main/StudentsList.md)
 
