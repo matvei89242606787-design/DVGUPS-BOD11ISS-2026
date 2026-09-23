@@ -4,7 +4,7 @@
 ---|---|---
 1 | Анисенко Илья Антонович | `Works-AnisenkoIA-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-AnisenkoIA-BOD11ISS)
 2 | Аношин Роман Вадимович | `Works-AnoshinRV-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-AnoshinRV-BOD11ISS)
-3 | Белан Арсений Алексеевич | `Works-BelanAA-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/TimofeevMM-BOD11ISS)
+3 | Белан Арсений Алексеевич | `Works-BelanAA-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-BelanAA-BOD11ISS)
 4 | Белюкявичус Максим Александрович | `Works-BelukiavichusMA-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-BelukiavichusMA-BOD11ISS)
 5 | Билащук Михаил Иванович | `Works-BilashukMI-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-BilashukMI-BOD11ISS)
 6 | Гойкин Глеб Андреевич | `Works-GoikinGA-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-GoikinGA-BOD11ISS)
