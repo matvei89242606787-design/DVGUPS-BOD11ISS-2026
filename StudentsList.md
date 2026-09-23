@@ -22,6 +22,6 @@
 18 | Потапов Кирилл Александрович | `Works-PotapovKA-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-PotapovKA-BOD11ISS)
 19 | Савченко Алёна Сергеевна | `Works-SavchenkoAS-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-SavchenkoAS-BOD11ISS)
 20 | Салин Вячеслав Олегович | `Works-SlavinVO-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-SlavinVO-BOD11ISS)
-21 | Тимофеев Матвей Михайлович | `Works-TimofeevMM-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-TimofeevMM-BOD11ISS)
+21 | Тимофеев Матвей Михайлович | `Works-TimofeevMM-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/TimofeevMM-BOD11ISS)
 22 | Туркин Сергей Александрович | `Works-TurkinSA-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-TurkinSA-BOD11ISS)
 23 | Федоров Артём Алексеевич | `Works-FedorovAA-BOD11ISS` [↪︎ Перейти](https://github.com/matvei89242606787-design/Works-FedorovAA-BOD11ISS)
